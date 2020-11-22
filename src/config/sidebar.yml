@@ -1,8 +1,8 @@
 # サイドバー
 
-- label: はじめに
+- label: めにゅー
   items:
-    - label: 'めにゅー'
+    - label: 'TOPページ'
       link: '/'
     - label: '入り方'
       link: '/join'
