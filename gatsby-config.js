@@ -1,9 +1,9 @@
 module.exports = {
   siteMetadata: {
-    siteTitle: `アジ鯖公式ホームページ`,
-    defaultTitle: `アジ鯖、たのしい。 - アジ鯖公式ホームページ`,
-    siteTitleShort: `アジ鯖`,
-    siteDescription: `アジ鯖は誰でも楽しめるサーバーを提供しているJava版マインクラフトのサーバーです。日々進化を続けるアジ鯖に参加して人生をより豊かにしよう。`,
+    siteTitle: `あんこ鯖公式ホームページ`,
+    defaultTitle: `甘くてのんびりとした生活を送ろう。`,
+    siteTitleShort: `あんこ`,
+    siteDescription: `あんこ鯖はMinecraftPE/BEで遊べる生活/経済サーバーです。`,
     siteUrl: `https://azisaba.net`,
     siteAuthor: `@AzisabaNetwork`,
     siteImage: `/sexy-banner.png`,
