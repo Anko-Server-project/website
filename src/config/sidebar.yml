@@ -2,40 +2,27 @@
 
 - label: はじめに
   items:
-    - label: 'ようこそ'
+    - label: 'めにゅー'
       link: '/'
     - label: '入り方'
       link: '/join'
-    - label: 'ルール'
+    - label: 'ルール/利用規約'
       link: '/terms'
-- label: もっと詳しく
+- label: しょうさい
   items:
     - label: '運営一覧'
       link: '/staff'
     - label: 'よくある質問'
       link: '/faq'
-    - label: '内部アドレス'
-      link: '/address'
 
 # 外部リンク
 
-- label: 外部リンク
+- label: リンク一覧
   items:
-    - label: '🔗 Linktree'
-      link: https://linktr.ee/azisaba
-    - label: '💸 寄付'
-      link: https://store.azisaba.net
-    - label: '✅ ステータス'
-      link: https://status.azisaba.net
-    - label: '📥 リソースパック'
-      link: https://packs.azisaba.net
-- label: 協力と提携
+    - label: 'Discord
+      link: https://discord.gg/Xd2df44
+
+- label: 使用/ご協力
   items:
-    - label: 'DDPS 様'
-      link: https://ddps.jp
-    - label: 'ちゃぶだいさ～ば～ 様'
-      link: https://chabudai.xyz
-    - label: 'Strife 様'
-      link: https://twitter.com/STRIFE_mcserver
-    - label: 'Coretol 様'
-      link: https://matchatb.wixsite.com/coretol
+    - label: 'さくらのVPS 様'
+      link: https://vps.sakura.ad.jp/
