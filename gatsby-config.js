@@ -4,8 +4,8 @@ module.exports = {
     defaultTitle: `甘くてのんびりとした生活を送ろう。`,
     siteTitleShort: `あんこ`,
     siteDescription: `あんこ鯖はMinecraftPE/BEで遊べる生活/経済サーバーです。`,
-    siteUrl: `https://azisaba.net`,
-    siteAuthor: `@AzisabaNetwork`,
+    siteUrl: `https://ankoserver.netlify.app/`,
+    siteAuthor: `@Anko-Serverk`,
     siteImage: `/sexy-banner.png`,
     siteLanguage: `ja`,
     themeColor: `#8257E6`,
@@ -17,15 +17,15 @@ module.exports = {
       options: {
         configPath: `src/config`,
         docsPath: `src/docs`,
-        githubUrl: `https://github.com/azisaba/website`,
+        githubUrl: `https://github.com/Anko-Server-project/website`,
         baseDir: `/`,
       },
     },
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `アジ鯖公式ホームページ`,
-        short_name: `アジ鯖`,
+        name: `あんこ鯖公式ホームページ`,
+        short_name: `あんこ鯖`,
         start_url: `/`,
         background_color: `#ffffff`,
         display: `standalone`,
@@ -43,7 +43,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-canonical-urls`,
       options: {
-        siteUrl: `https://azisaba.net`,
+        siteUrl: `https://ankoserver.netlify.app/`,
       },
     },
     `gatsby-plugin-offline`,
