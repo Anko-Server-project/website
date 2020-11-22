@@ -14,7 +14,7 @@ export default function Logo(props) {
         color: '#000000',
         fontSize: '1.4em',
         marginLeft: '8px',
-      }}>あんこ鯖</span>
+      }}></span>
     </div>
   );
 }
